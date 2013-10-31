@@ -7,5 +7,9 @@ namespace AcessoDados
 {
     public class Novo
     {
+        public string TrilhaDoPoder() 
+        {
+            return "Turu tu turu...Turu tu turu...";
+        }
     }
 }
