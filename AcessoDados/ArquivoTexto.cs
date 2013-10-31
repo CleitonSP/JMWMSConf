@@ -9,7 +9,7 @@ namespace AcessoDados
 {
     public class ArquivoTexto
     {
-        
+
         public String LerArquivoTexto(string strCaminhoNomeArquivo)
         {
             try
@@ -103,7 +103,7 @@ namespace AcessoDados
         {
             try
             {
-                System.IO.File.WriteAllBytes(@"" + strCaminhoNomeArquivo , btBytes);
+                System.IO.File.WriteAllBytes(@"" + strCaminhoNomeArquivo, btBytes);
                 return true;
             }
             catch (Exception Erro)
@@ -133,5 +133,5 @@ namespace AcessoDados
         }
 
     }
-    }
 }
+
