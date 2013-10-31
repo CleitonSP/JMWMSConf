@@ -1,5 +1,5 @@
-C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\AcessoDados\bin\Debug\AcessoDados.dll.config
-C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\AcessoDados\bin\Debug\AcessoDados.dll
-C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\AcessoDados\bin\Debug\AcessoDados.pdb
-C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\AcessoDados\obj\Debug\AcessoDados.dll
-C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\User01\Documents\Visual Studio 2010\Projects\JMWmsConf\AcessoDados\bin\Debug\AcessoDados.dll.config
+C:\Users\User01\Documents\Visual Studio 2010\Projects\JMWmsConf\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\User01\Documents\Visual Studio 2010\Projects\JMWmsConf\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\User01\Documents\Visual Studio 2010\Projects\JMWmsConf\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\User01\Documents\Visual Studio 2010\Projects\JMWmsConf\AcessoDados\obj\Debug\AcessoDados.pdb

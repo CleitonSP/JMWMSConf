@@ -1,4 +1,4 @@
-C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\Negocios\bin\Debug\Negocios.dll
-C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\Negocios\bin\Debug\Negocios.pdb
-C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\Negocios\obj\Debug\Negocios.dll
-C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\Negocios\obj\Debug\Negocios.pdb
+C:\Users\User01\Documents\Visual Studio 2010\Projects\JMWmsConf\Negocios\bin\Debug\Negocios.dll
+C:\Users\User01\Documents\Visual Studio 2010\Projects\JMWmsConf\Negocios\bin\Debug\Negocios.pdb
+C:\Users\User01\Documents\Visual Studio 2010\Projects\JMWmsConf\Negocios\obj\Debug\Negocios.dll
+C:\Users\User01\Documents\Visual Studio 2010\Projects\JMWmsConf\Negocios\obj\Debug\Negocios.pdb
