@@ -10,7 +10,6 @@ namespace AcessoDados
         public string TrilhaDoPoder() 
         {
             return "Turu tu turu...Turu tu turu...";
-
         }
     }
 }

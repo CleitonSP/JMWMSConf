@@ -1,0 +1,4 @@
+C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\JMWmsConf\bin\JMWmsConf.dll
+C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\JMWmsConf\bin\JMWmsConf.pdb
+C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\JMWmsConf\obj\Debug\JMWmsConf.dll
+C:\Users\User01\documents\visual studio 2010\Projects\JMWmsConf\JMWmsConf\obj\Debug\JMWmsConf.pdb
