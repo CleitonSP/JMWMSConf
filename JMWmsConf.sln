@@ -1,7 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessoDados", "AcessoDados\AcessoDados.csproj", "{949AC5F2-47FA-48FB-B6B6-4E435F4B457E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocios", "Negocios\Negocios.csproj", "{BA19EBDE-7DCB-4624-B3CF-B087B62330AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMWmsConf", "JMWmsConf\JMWmsConf.csproj", "{32E0E962-82D3-45A9-8D50-5B9152DFA48A}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949AC5F2-47FA-48FB-B6B6-4E435F4B457E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949AC5F2-47FA-48FB-B6B6-4E435F4B457E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949AC5F2-47FA-48FB-B6B6-4E435F4B457E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949AC5F2-47FA-48FB-B6B6-4E435F4B457E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA19EBDE-7DCB-4624-B3CF-B087B62330AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA19EBDE-7DCB-4624-B3CF-B087B62330AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA19EBDE-7DCB-4624-B3CF-B087B62330AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA19EBDE-7DCB-4624-B3CF-B087B62330AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E0E962-82D3-45A9-8D50-5B9152DFA48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E0E962-82D3-45A9-8D50-5B9152DFA48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E0E962-82D3-45A9-8D50-5B9152DFA48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E0E962-82D3-45A9-8D50-5B9152DFA48A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
