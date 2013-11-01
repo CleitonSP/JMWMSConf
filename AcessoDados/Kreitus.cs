@@ -8,9 +8,9 @@ namespace AcessoDados
     public class Kreitus
     {
         public string pipitchu () 
-        { 
-            
-       return  "Jesus Humilha o Satanas -nas -nas -nas -nas"; 
+        {
+
+            return ("Jesus Humilha o Satanas -nas -nas -nas -nas"); 
 
         }
        
