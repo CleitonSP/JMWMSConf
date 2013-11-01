@@ -2,11 +2,18 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using System.IO.Compression;
 namespace AcessoDados
 {
-    class Kreitus
+    public class Kreitus
     {
-        public void pipitchu { }
+        public string pipitchu () 
+        { 
+            
+       return  "Jesus Humilha o Satanas"; 
+
+        }
+       
+
     }
 }
