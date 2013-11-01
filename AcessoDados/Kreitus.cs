@@ -7,5 +7,6 @@ namespace AcessoDados
 {
     class Kreitus
     {
+        public void pipitchu { }
     }
 }
